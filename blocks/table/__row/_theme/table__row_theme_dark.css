@@ -1,0 +1,6 @@
+.table__row_theme_dark {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 80px 0 0;
+}
