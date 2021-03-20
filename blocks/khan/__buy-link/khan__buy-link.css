@@ -5,6 +5,7 @@
   margin-left: 48px;
   color: #2f80ed;
   text-decoration:none;
+  align-self: flex-start;
   opacity: 1;
   transition: opacity 1s ease-in;
 }
